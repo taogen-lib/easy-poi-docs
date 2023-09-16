@@ -1,0 +1,12 @@
+@startmindmap
+* easy-poi
+
+** excel
+*** import. get data objects from excel files.
+*** export. write data objects to excel files.
+*** build. custom build excel files.
+
+** word
+*** build. custom build word files.
+
+@endmindmap

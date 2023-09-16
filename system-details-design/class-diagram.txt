@@ -1,0 +1,10 @@
+@startuml
+'''''''''''''''''
+' Entities      '
+'''''''''''''''''
+
+interface ExcelReader {
+    - List<T> read(InputStream inputStream, Class<T> clazz)
+}
+
+@enduml
